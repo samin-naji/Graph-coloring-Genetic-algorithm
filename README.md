@@ -1,4 +1,4 @@
-Graph Coloring with Genetic Algorithm
+```Graph Coloring with Genetic Algorithm
 The goal is to color the vertices of a graph such that:
 1. No two adjacent vertices have the same color.
 2. The number of colors used (chromatic number) is minimized.
@@ -17,4 +17,4 @@ Color assignment for each vertex: C = {c₁, c₂, …, cₙ}, where cᵢ ∈ {1
 Number of colors
 Number of conflicts = number of edges where two adjacent vertices have the same color
 Final fitness value
-Fitness trend chart over generations
+Fitness trend chart over generations```
